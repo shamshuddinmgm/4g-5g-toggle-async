@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">4G 5G Toggle Async</string>
+    <string name="app_tagline">Quick Settings flip Prefer LTE ↔ Prefer 5G via Shizuku.</string>
+    <string name="tile_label">4G/5G</string>
+    <string name="mode_4g">4G</string>
+    <string name="mode_5g">5G</string>
+    <string name="tile_need_shizuku">Need Shizuku</string>
+    <string name="tile_unknown">Unknown</string>
+    <string name="tile_error">Error</string>
+    <string name="tile_switching">Switching…</string>
+    <string name="tile_tap_4g">5G on · tap → 4G</string>
+    <string name="tile_tap_5g">4G on · tap → 5G</string>
+    <string name="shizuku_required">Start Shizuku and grant permission first</string>
+    <string name="shizuku_install">Install Shizuku first</string>
+    <string name="shizuku_start">Start Shizuku first</string>
+    <string name="toggle_busy">Toggle already running</string>
+    <string name="toggle_done">Switched to %1$s</string>
+    <string name="toggle_failed">Toggle failed: %1$s</string>
+    <string name="add_tile_manual">Add 4G/5G from the QS edit panel</string>
+    <string name="status_shizuku_off">Shizuku: not running</string>
+    <string name="status_shizuku_need_perm">Shizuku: needs permission</string>
+    <string name="status_shizuku_ready">Shizuku: ready</string>
+    <string name="status_mode">Network: %1$s</string>
+    <string name="status_mode_unknown">Network: unknown (grant Shizuku)</string>
+    <string name="action_toggle">Toggle 4G / 5G</string>
+    <string name="action_open_shizuku">Open Shizuku</string>
+    <string name="action_grant_shizuku">Grant Shizuku permission</string>
+    <string name="action_add_tile">Add Quick Settings tile</string>
+    <string name="action_refresh">Refresh status</string>
+    <string name="setup_hint">Matches HyperOS Prefer LTE ↔ Prefer 5G. Shizuku only — no root. Applies to active SIM slots.</string>
+</resources>
